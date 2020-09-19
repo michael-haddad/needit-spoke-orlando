@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_hub_action_type_definition">
+    <sys_hub_action_type_definition action="DELETE">
+        <access>public</access>
+        <acls/>
+        <action_template/>
+        <active>true</active>
+        <annotation/>
+        <callable_by_client_api>false</callable_by_client_api>
+        <category/>
+        <copied_from/>
+        <copied_from_name/>
+        <description>vbn bvbvc</description>
+        <ih_action>false</ih_action>
+        <internal_name>aa</internal_name>
+        <label_cache/>
+        <latest_snapshot/>
+        <master_snapshot/>
+        <name>aa</name>
+        <natlang/>
+        <outputs/>
+        <state>draft</state>
+        <sys_class_name>sys_hub_action_type_definition</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-09-17 22:31:33</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>518453f907139010a913f0269c1ed0eb</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>aa</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="NeedIt Spoke" source="x_140269_needit_sp">37ad8f7507139010a913f0269c1ed0f5</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="NeedIt Spoke">37ad8f7507139010a913f0269c1ed0f5</sys_scope>
+        <sys_update_name>sys_hub_action_type_definition_518453f907139010a913f0269c1ed0eb</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-09-17 22:31:33</sys_updated_on>
+        <system_level>false</system_level>
+        <type/>
+    </sys_hub_action_type_definition>
+    <sys_translated_text action="DELETE" query="documentkey=518453f907139010a913f0269c1ed0eb"/>
+    <sys_variable_value action="DELETE" query="document_key=518453f907139010a913f0269c1ed0eb"/>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="NeedIt Spoke">37ad8f7507139010a913f0269c1ed0f5</application>
+        <file_path/>
+        <instance_id>50aedad5db467308b847ac44d49619f8</instance_id>
+        <instance_name>dev87196</instance_name>
+        <name>sys_hub_action_type_definition_518453f907139010a913f0269c1ed0eb</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_hub_action_type_definition"><sys_hub_action_type_definition action="INSERT_OR_UPDATE"><access>public</access><acls/><action_template/><active>true</active><annotation/><callable_by_client_api>false</callable_by_client_api><category/><copied_from/><copied_from_name/><description>vbn bvbvc</description><ih_action>false</ih_action><internal_name>aa</internal_name><label_cache/><latest_snapshot/><master_snapshot/><name>aa</name><natlang/><outputs/><state>draft</state><sys_class_name>sys_hub_action_type_definition</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2020-09-17 22:31:33</sys_created_on><sys_domain>global</sys_domain><sys_domain_path>/</sys_domain_path><sys_id>518453f907139010a913f0269c1ed0eb</sys_id><sys_mod_count>0</sys_mod_count><sys_name>aa</sys_name><sys_overrides/><sys_package display_value="NeedIt Spoke" source="x_140269_needit_sp">37ad8f7507139010a913f0269c1ed0f5</sys_package><sys_policy/><sys_scope display_value="NeedIt Spoke">37ad8f7507139010a913f0269c1ed0f5</sys_scope><sys_update_name>sys_hub_action_type_definition_518453f907139010a913f0269c1ed0eb</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2020-09-17 22:31:33</sys_updated_on><system_level>false</system_level><type/></sys_hub_action_type_definition><sys_translated_text action="delete_multiple" query="documentkey=518453f907139010a913f0269c1ed0eb"/><sys_variable_value action="delete_multiple" query="document_key=518453f907139010a913f0269c1ed0eb"/></record_update>]]></payload>
+        <payload_hash>-1873745208</payload_hash>
+        <record_name>aa</record_name>
+        <reverted_from/>
+        <source>f7ad8f7507139010a913f0269c1ed0f7</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-09-17 22:31:33</sys_created_on>
+        <sys_id>a98453f907139010a913f0269c1ed0ee</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>1749e31bd610000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-09-17 22:31:33</sys_updated_on>
+        <type>Action Type</type>
+        <update_guid>e18453f9611390109175244b6977feee</update_guid>
+        <update_guid_history>e18453f9611390109175244b6977feee:-1873745208</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-09-17 22:41:34</sys_created_on>
+        <sys_db_object display_value="" name="sys_hub_action_type_definition">sys_hub_action_type_definition</sys_db_object>
+        <sys_id>0e1c41f9885b4c3c82eb1a1c015b20a4</sys_id>
+        <sys_metadata>518453f907139010a913f0269c1ed0eb</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>aa</sys_name>
+        <sys_package display_value="NeedIt Spoke" source="x_140269_needit_sp">37ad8f7507139010a913f0269c1ed0f5</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="NeedIt Spoke">37ad8f7507139010a913f0269c1ed0f5</sys_scope>
+        <sys_scope_delete display_value="">0d19a84bb742442abcff651908f84209</sys_scope_delete>
+        <sys_update_name>sys_hub_action_type_definition_518453f907139010a913f0269c1ed0eb</sys_update_name>
+        <sys_update_version display_value="sys_hub_action_type_definition_518453f907139010a913f0269c1ed0eb">a98453f907139010a913f0269c1ed0ee</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-09-17 22:41:34</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>
